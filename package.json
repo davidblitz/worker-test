@@ -1,0 +1,21 @@
+{
+    "author": "dmickisch@gmail.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "worker-test",
+    "pebble": {
+        "displayName": "Worker-test",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "uuid": "4a033c4b-ebde-4270-ae3a-78ad4acf0066",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
